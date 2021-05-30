@@ -1,0 +1,6 @@
+C:\Users\Αλευρά Γεωργία\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Αλευρά Γεωργία\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Αλευρά Γεωργία\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Αλευρά Γεωργία\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Αλευρά Γεωργία\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Αλευρά Γεωργία\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
